@@ -1,7 +1,7 @@
 package MODELO.ESTRUCTURA_DATOS;
 
 public class Grafo {
-
+    
     static class Nodo {
         int dato;
         ListaEnlazada adyacentes;  // Lista de nodos adyacentes
